@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useRef } from "react";
 
 const songs = [
     "Afgan - Panah Asmara.mp3",
@@ -18,19 +18,40 @@ const songs = [
 ];
 
 export default function MusicPlayer() {
+    const audioRefs = useRef([]);
+
+    const handlePlay = (index) => {
+        audioRefs.current.forEach((audio, i) => {
+        if (audio && i !== index) {
+            audio.pause();
+            audio.currentTime = 0; 
+        }
+        });
+    };
+
     return (
         <div className="p-6 bg-pink-50 rounded-2xl shadow-lg animate-fade-in">
-            <ul className="space-y-4">
-                {songs.map((name, i) => (
-                <li key={i} className="bg-white p-4 rounded-lg shadow-sm hover:bg-pink-100 transition">
-                    <p className="font-medium text-gray-800">{name.replace(".mp3", "")}</p>
-                    <audio controls className="w-full mt-2">
-                    <source src={`/songs/${name}`} type="audio/mpeg" />
-                    Browser kamu tidak mendukung pemutar audio.
-                    </audio>
-                </li>
-                ))}
-            </ul>
+        <ul className="space-y-4">
+            {songs.map((name, i) => (
+            <li
+                key={i}
+                className="bg-white p-4 rounded-lg shadow-sm hover:bg-pink-100 transition"
+            >
+                <p className="font-medium text-gray-800">
+                {name.replace(".mp3", "")}
+                </p>
+                <audio
+                ref={(el) => (audioRefs.current[i] = el)}
+                controls
+                className="w-full mt-2"
+                onPlay={() => handlePlay(i)} 
+                >
+                <source src={`/songs/${name}`} type="audio/mpeg" />
+                Your browser not support the audio player.
+                </audio>
+            </li>
+            ))}
+        </ul>
         </div>
     );
 }
