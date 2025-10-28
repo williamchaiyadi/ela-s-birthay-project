@@ -1,0 +1,192 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --accent: #ff4da6;
+}
+
+.fancy {
+    font-family: 'Dancing Script', cursive;
+}
+
+.bubble {
+    @apply bg-white/60 p-4 rounded-xl shadow;
+}
+
+.messages-list {
+    max-height: 550px;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+.album-photo {
+    @apply w-full aspect-square object-cover rounded transition-transform duration-300 ease-in-out hover:scale-105 hover:shadow-lg;
+}
+
+@keyframes shake {
+    0% { transform: translateX(0); }
+    20% { transform: translateX(-6px); }
+    40% { transform: translateX(6px); }
+    60% { transform: translateX(-4px); }
+    80% { transform: translateX(4px); }
+    100% { transform: translateX(0); }
+}
+.animate-shake {
+    animation: shake .45s;
+}
+
+.bg-pink-1 {
+    background: radial-gradient(circle at 10% 10%, #fff0f6, #ffd6e7 40%, #ff85c0 100%);
+}
+
+body {
+    background-image: url('/background/background.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+@keyframes fade-in {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-in {
+    animation: fade-in 0.8s ease-in-out;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.lightbox-wrapper {
+    @apply fixed inset-0 z-50 flex items-center justify-center;
+}
+.lightbox-image {
+    @apply max-w-[90%] max-h-[85%] rounded-2xl shadow-2xl object-contain transition-transform duration-500 ease-in-out;
+    animation: zoom-in 0.35s ease forwards;
+}
+@keyframes zoom-in {
+    from { transform: scale(0.85); opacity: 0; }
+    to { transform: scale(1); opacity: 1; }
+}
+.lightbox-button {
+    @apply absolute text-white text-4xl font-bold cursor-pointer transition-transform duration-300 select-none;
+}
+.lightbox-button:hover {
+    transform: scale(1.2);
+}
+.lightbox-prev { @apply left-8; }
+.lightbox-next { @apply right-8; }
+.lightbox-close {
+    @apply top-6 right-10;
+    color: white;
+    transition: color 0.3s;
+}
+.lightbox-close:hover { color: var(--accent); }
+
+/* =====================================
+    📱 MOBILE RESPONSIVE REFINEMENT
+   ===================================== */
+@media (max-width: 768px) {
+    html, body {
+        overflow-x: hidden;
+    }
+
+    /* --- NAVBAR FIX --- */
+    .navbar, .tab-bar {
+        @apply fixed bottom-0 left-0 right-0 bg-white/70 backdrop-blur-md shadow-md rounded-t-2xl flex justify-around items-center py-1.5;
+        z-index: 50;
+        box-sizing: border-box;
+    }
+
+    .tab-bar button {
+        @apply flex flex-col items-center justify-center text-[11px] font-medium gap-0.5;
+        min-width: 58px;
+        transform: scale(0.9);
+    }
+
+    .tab-bar button svg {
+        width: 20px;
+        height: 20px;
+    }
+
+    /* --- MAIN CONTENT --- */
+    .main-wrapper, .tab-content {
+        @apply pb-20 pt-2 px-3 w-full max-w-full mx-auto;
+        box-sizing: border-box;
+    }
+
+    /* --- AUDIO PLAYER FIX --- */
+    .music-card, .audio-card {
+        @apply w-full mb-3 p-2 bg-white/60 rounded-lg shadow-sm;
+        box-sizing: border-box;
+    }
+
+    .music-card h3, .audio-card h3 {
+        @apply text-[13px] font-medium mb-1 text-center;
+    }
+
+    audio {
+        width: 90% !important;
+        height: 34px !important;
+        display: block;
+        margin: 0 auto;
+        border-radius: 12px;
+    }
+
+    /* --- ALBUM FIX --- */
+    .album-container .grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 0.4rem;
+        padding: 0 0.5rem;
+    }
+
+    .album-photo {
+        border-radius: 0.75rem;
+    }
+
+    /* --- BUBBLE CHAT FIX --- */
+    .bubble {
+        @apply text-[13px] p-3 leading-relaxed mx-1;
+    }
+
+    /* --- FOOTER TEXT --- */
+    footer, .footer-text {
+        @apply text-center text-[11px] py-2 text-gray-700;
+        line-height: 1.2rem;
+    }
+
+    /* --- LIGHTBOX IMAGE --- */
+    .lightbox-image {
+        max-width: 92%;
+        max-height: 70%;
+        border-radius: 0.75rem;
+    }
+
+    .lightbox-button {
+        font-size: 1.6rem;
+    }
+
+    .lightbox-prev { left: 0.8rem; }
+    .lightbox-next { right: 0.8rem; }
+    .lightbox-close {
+        top: 0.5rem;
+        right: 0.8rem;
+        font-size: 2rem;
+    }
+
+    /* --- SCROLL FIX --- */
+    .scrollable, .messages-list {
+        max-height: 58vh;
+        overflow-y: auto;
+        scrollbar-width: thin;
+        padding-right: 2px;
+    }
+
+    /* --- TRANSITIONS --- */
+    .animate-fade-in {
+        animation: fade-in 0.5s ease-in;
+    }
+}
