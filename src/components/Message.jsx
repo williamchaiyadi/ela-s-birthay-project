@@ -114,7 +114,9 @@ const Message = () => {
 
             Once againn, Happpyyy Birthdaayyy my lovelyyy Elaaa 🎂🕯✨💖 Semoga kamu selalu dikelilingi cinta, kedamaian, dan kebahagiaan setiap harinya 😍 Aku sayang banget sama kamu, dan aku harap hari ini jadi salah satu hari paling spesial di hidup kamuuu 🥳💞
 
-            Love uuuuu so so muchhh byyyyy 💋💖💖` 
+            Love uuuuu so so muchhh byyyyy 💋💖💖
+
+            📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.` 
         },
 
         { id: 9, 
@@ -253,9 +255,19 @@ const Message = () => {
                         </div>
                     ) : (
                         <div className="space-y-4 text-gray-700 leading-relaxed text-justify">
-                            {selectedChat.body.split('\n\n').map((para, idx) => (
-                                <p key={idx}>{para}</p>
-                            ))}
+                            {selectedChat.body
+                                .replace(/📜.*$/s, '') 
+                                .split('\n\n')
+                                .map((para, idx) => (
+                                    <p key={idx}>{para}</p>
+                                ))
+                            }
+
+                            {selectedChat.id !== 1 && selectedChat.id !== 9 && (
+                                <p className="italic text-sm mt-10 pt-4 border-t border-gray-300 text-gray-500">
+                                    📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.
+                                </p>
+                            )}
                         </div>
                     )}
                 </div>
