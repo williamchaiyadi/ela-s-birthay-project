@@ -18,10 +18,10 @@ export default function Reminders() {
     return (
         <div className='animate-fade-in'>
         <div className="bg-pink-100 text-pink-800 p-4 rounded mb-4 shadow-sm">
-            <p className="font-semibold text-lg">💌 Pesan kecil untuk ela:</p>
+            <p className="font-semibold text-lg">💌 Pesan kecil untuk Ela:</p>
             <br />
             <p className="italic mb-2">
-                "Ini sedikit reminder dari aku untuk kamu, biar hari-hari kamu tetep hangat dan semangattt 💖"
+                "Ini sedikit reminder dari aku untuk el, biar hari-hari kamu tetep hangat dan semangattt 💖"
             </p>
         </div>
 

@@ -120,7 +120,7 @@ const Message = () => {
         },
 
         { id: 9, 
-            title: "Thank You Letter ✨", 
+            title: "Thank You For Everything ✨", 
             body: `Alllowww Elaa... Bagaimana kabar kamuu???? Aku harap kamu baik-baik aja yaa. Anddd semoga kamu happy terusss sehingga happy kamu bisa tersebar ke semua orangg di penjuru duniaaa.. Hahahahahaa. Oh ya, sebenarnya di tulisan ini aku mau sharing aja sih perasaan aku sekarang setelah kita done. Bukan bermaksud mengambil simpati kamu atau apapun, enggak sama sekali. Aku gak ada niat ke arah sana. It's just a pure sharing thinggss. Kita mulai yaaa...
 
             Setelah kita ketemu dan ngobrol, disitu hati aku kacau banget. Rasanya sakit banget sih, karena aku kehilangan orang yang aku sayang. Yaa.. awal-awal aku merasa bener-bener marah, sedih, pokoknya semuanya campur aduk. Tapi aku sadar, kalau ini terjadi karena kesalahan aku sendiri, dan aku bener-bener nyesalin perbuatan aku. 
