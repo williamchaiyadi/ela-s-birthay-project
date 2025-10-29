@@ -129,7 +129,7 @@ const Message = () => {
 
             Tapi intinya disini adalah, aku mau berterima kasih ke kamu sebesar-besarnya dan sebanyak-banyaknya. Terima kasih udah hadir di dalam hidup aku,  terima kasih udah sharing semua hal bareng aku, dan terima kasih juga udah mengubah diri aku ini. Kehadiran kamu di hidup aku bener-bener berarti buat aku, jadi membuat aku sadar juga betapa pentingnya kamu untuk aku. 
 
-            Mungkin memang betul saat ini kita belum berjodoh, tapi yang kayak kamu bilang aja, kalaupun kita berjodoh, kita bakal disatuin sama Tuhan lagi walaupun entah kapan waktunya. Saat ini aku udah memberikan segala hal yang terbaik buat kamu, dan aku bakal tunggu waktunya aku memberikan lagi segalanya untuk kamu. 
+            Mungkin memang betul saat ini kita belum berjodoh, tapi yang kayak kamu bilang aja, kalaupun kita berjodoh, kita bakal disatuin sama Tuhan lagi walaupun entah kapan waktunya. Tapi yang pasti Tuhan akan menyatukan dan mempertemukan kita berdua ketika sudah sama-sama siap. Saat ini aku udah memberikan segala hal yang terbaik buat kamu, dan aku bakal tunggu waktunya aku memberikan lagi segalanya untuk kamu. 
 
             Betul sih, titik tertinggi kita mencintai dan menyayangi seseorang adalah mengikhlaskan. So, aku sudah ikhlas dan aku udah rela kalau kamu mau fokus terhadap mimpi kamu. Aku disini bakal tetep menjadi support system kamu. Kalaupun kamu sama orang lain, aku harap orang itu bisa menjaga kamu baik-baik dan sayang kamu banyak-banyak. 
 
