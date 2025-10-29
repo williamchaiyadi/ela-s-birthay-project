@@ -93,8 +93,33 @@ const Message = () => {
         },
 
         { id: 8, 
+            title: "Birthday Letter 🎂", 
+            body: `Haiii byyyy 💖 Haapppyyy Birtthhhdayyyy 🥳🥳 Tiupp lilin duluu yukkkssss 🎂🕯 Hahahahahaha
+
+            Wahhh udah nambah umur ajaa nihh kamuu 😝✨ Gimana rasanyaaa udah umur 19??? Hehehe pasti kamu exciteddd yaaa, semakin dewasaa semakin banyak cerita dan pengalaman baruu 😆 Semogaaa di umur kamu yang ke-19 inii, semua hal baik dateng satu-satu ke hidup kamu yaaa 💫 mulai dari rezekii yang lancarr, kesehatan yang terus dijagaaa, hati yang tenangg, dan pastinya kamu happyyy terusss tanpa absen setiap harinyaaaa 😍 Dan semogaaa juga Jesus always bless uu abundantlyyy 🙏💖
+
+            Kamu tuh amazing bangetttt tauu byyy 😭 dari dulu sampai sekarang tetap bisa bertahan, tetap semangat, tetap berjuang walaupun kadang banyak hal yang bikin kamu cape bangettt 🥺 tapi kamu gak pernah nyerah, malah terus nyoba dan terus jalann 💪 Itu salah satu hal yang paling aku kagumin dari kamu 🥰 and honestlyyy, i’m very veryy veryyy prouddd of uuuuu ✨
+
+            Actuallyyy, aku udah nyiapin banyak hal sihh buat ulang tahun kamu inii 😆 Mulai dari project website yang aku buat dari pertengahan September, terus pelan-pelan aku kerjain sampai hampir selesai di pertengahan Oktober. Semua hal aku pikirin satu-satu biar hasilnya bisa nunjukin betapa spesialnya kamu buat akuu 💖
+
+            Sebenarnya hampir semua bagian udah beres, dari message, ui/ux, sampai detail kecil yang aku ubek-ubek wkwkwk 🤭 Kalau pun nanti ada yang mau ditambah, ya gampang aja, aku tinggal update hehehe~. Nahhh buat bagian album fotooo itu juga bagian favorit akuuu 😆 Makanya aku sering banget minta pap ke kamuuu (selain karena aku emang mau juga 😜), tapi juga biar bisa aku taro di project inii hehe. Soooo, semogaaa kamu sukaa yaa sama website dan semua isinya 🤗🤗
+
+            Oh iyaa, selain itu aku juga beliin kamu beberapa barang yang aku harap kamu sukaaa 🛍 Barang-barang ini aku pikirin banget dari awal project ini berjalan, dan jujur aku sempet gonta-ganti pilihan gara-gara overthinking wkwkwk 🙈 Takut kamu gak suka, takut gak cocok, tapi akhirnya aku milih yang menurut aku paling pas, yaitu tas ituu 👜 Semoga bisa berguna buat kamu yaaa 😚 Maaf kalau hadiahnya bukan hal yang mewah kayak cincin, gelang, atau bunga, tapi ini aku kasih dari hati yang paling dalam, tulus buat kamuuu~ 💖
+
+            Aku juga excitedd bangett sihh, sudah ngebayangin gimana kalau kita ngerayain ulang tahun kamu bareng-bareng. Entah itu makan bareng, atau cuma sekadar tiup lilin via video call, yang penting barenggg 🤭 Tadinya aku juga mau bikin surprise lohh, tapi yaa kamu tau sendiri aku gak bakat yang begitu-begitu wkwkwkwk 🤣 jadi aku pikir mending aku jujur aja HAHAHA
+
+            Anywayyy in busswayyy to hawaayyy 🚌🌴 aku cuma mau bilang makasih banyaaakkk buat semuanyaaa. Makasih udah hadir di hidup aku, udah jadi sosok yang bisa bikin aku senyum tiap hariii 😆💞 Kamu tuh beneran kayak vitamin mood versi manusiaa 😝 tiap kali ngobrol sama kamu tuh rasanya adem, hangat, nyaman, bahkan kadang bikin ngantuk karena aku ngerasa tenang banget 😴💗 Mau kamu lagi bete, clingy, happy, atau random gak jelas pun, asal kamu cerita aja itu udah cukup buat aku semangat lagi 😆🌈
+
+            Kamu tuh berharga banget buat aku byyy ❤ Jadi aku bakal terus jagain kamu, support kamu, dan doain kamu di setiap langkah yang kamu jalanin ✨✨ I'm very gratefull bisa kenal dan punya kamu di hidup aku
+
+            Once againn, Happpyyy Birthdaayyy my lovelyyy Elaaa 🎂🕯✨💖 Semoga kamu selalu dikelilingi cinta, kedamaian, dan kebahagiaan setiap harinya 😍 Aku sayang banget sama kamu, dan aku harap hari ini jadi salah satu hari paling spesial di hidup kamuuu 🥳💞
+
+            Love uuuuu so so muchhh byyyyy 💋💖💖` 
+        },
+
+        { id: 9, 
             title: "Thank You Letter ✨", 
-            body: `Alllowww my happy pinky Elaa... Bagaimana kabar kamuu???? Aku harap kamu baik-baik aja yaa. Anddd semoga kamu happy terusss sehingga happy kamu bisa tersebar ke semua orangg di penjuru duniaaa.. Hahahahahaa. Oh ya, sebenarnya di tulisan ini aku mau sharing aja sih perasaan aku sekarang setelah kita done. Bukan bermaksud mengambil simpati kamu atau apapun, enggak sama sekali. Aku gak ada niat ke arah sana. It's just a pure sharing thinggss. Kita mulai yaaa...
+            body: `Alllowww Elaa... Bagaimana kabar kamuu???? Aku harap kamu baik-baik aja yaa. Anddd semoga kamu happy terusss sehingga happy kamu bisa tersebar ke semua orangg di penjuru duniaaa.. Hahahahahaa. Oh ya, sebenarnya di tulisan ini aku mau sharing aja sih perasaan aku sekarang setelah kita done. Bukan bermaksud mengambil simpati kamu atau apapun, enggak sama sekali. Aku gak ada niat ke arah sana. It's just a pure sharing thinggss. Kita mulai yaaa...
 
             Setelah kita ketemu dan ngobrol, disitu hati aku kacau banget. Rasanya sakit banget sih, karena aku kehilangan orang yang aku sayang. Yaa.. awal-awal aku merasa bener-bener marah, sedih, pokoknya semuanya campur aduk. Tapi aku sadar, kalau ini terjadi karena kesalahan aku sendiri, dan aku bener-bener nyesalin perbuatan aku. 
 
@@ -112,7 +137,7 @@ const Message = () => {
             ` 
         },
 
-        { id: 9, 
+        { id: 10, 
             title: "Surat Untuk Ela 💌", 
             body: `Hai byy, aku mau ngomong serius sama kamu. 
 
@@ -201,7 +226,7 @@ const Message = () => {
                     </button>
                     <br />
 
-                    {selectedChat.id === 9 && !isUnlocked ? (
+                    {selectedChat.id === 10 && !isUnlocked ? (
                         <div className="text-center space-y-4 py-8">
                             <h2 className="text-lg font-semibold text-gray-700">
                                 Surat ini dilock 🔒 
