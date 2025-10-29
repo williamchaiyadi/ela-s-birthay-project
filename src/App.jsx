@@ -18,14 +18,12 @@ export default function App() {
             : 'bg-gradient-to-br from-pink-200 via-pink-300 to-pink-400'
         }`}
         >
-        {/* LOGIN PAGE */}
         {!loggedIn && (
             <div className="w-full max-w-md">
             <Login onSuccess={() => setLoggedIn(true)} />
             </div>
         )}
 
-        {/* MAIN APP */}
         {loggedIn && (
             <div className="w-full max-w-5xl bg-white/80 rounded-2xl shadow-xl p-4 backdrop-blur-md">
             <header className="flex items-center justify-between mb-3">
@@ -33,7 +31,6 @@ export default function App() {
                 <div className="text-sm text-rose-700">Welcomee, Elaa!! 👋</div>
             </header>
 
-            {/* KONTEN DENGAN TINGGI TETAP */}
             <main className="bg-white/50 rounded-xl p-4 h-[70vh] overflow-y-auto shadow-inner animate-fade-in">
                 {activeTab === 'message' && <Message />}
                 {activeTab === 'music' && <Music />}

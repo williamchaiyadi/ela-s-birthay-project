@@ -10,7 +10,6 @@ export default function Gallery() {
         className="min-h-screen bg-cover bg-center flex flex-col items-center"
         style={{ backgroundImage: "url('/background/background.png')" }}
         >
-        {/* Tab Bar */}
         <div className="flex justify-center mt-6 space-x-4 bg-white/70 rounded-full px-4 py-2 shadow-md backdrop-blur-md">
             <button
             onClick={() => setActiveTab("album")}
@@ -34,7 +33,6 @@ export default function Gallery() {
             </button>
         </div>
 
-        {/* Content Wrapper */}
         <div className="mt-6 w-full max-w-5xl h-[80vh] bg-white/70 rounded-2xl shadow-lg overflow-hidden backdrop-blur-md">
             <div className="h-full overflow-y-auto p-6">
             {activeTab === "album" ? <Album /> : <MusicPlayer />}

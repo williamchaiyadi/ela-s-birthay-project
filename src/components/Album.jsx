@@ -52,7 +52,6 @@ export default function Album() {
                     }`}
                     style={{ overscrollBehavior: "none" }}
                 >
-                    {/* Tombol Tutup */}
                     <button
                         className="absolute top-6 right-8 text-white text-4xl font-bold hover:scale-110 transition-transform"
                         onClick={close}
@@ -60,7 +59,6 @@ export default function Album() {
                         &times;
                     </button>
 
-                    {/* Tombol Sebelumnya */}
                     <button
                         className="absolute left-6 text-white text-3xl hover:scale-125 transition-transform"
                         onClick={prev}
@@ -68,7 +66,6 @@ export default function Album() {
                         ⬅
                     </button>
 
-                    {/* Gambar Utama */}
                     <img
                         src={images[index]}
                         alt={`Zoom ${index + 1}`}
@@ -77,7 +74,6 @@ export default function Album() {
                         }`}
                     />
 
-                    {/* Tombol Berikutnya */}
                     <button
                         className="absolute right-6 text-white text-3xl hover:scale-125 transition-transform"
                         onClick={next}
