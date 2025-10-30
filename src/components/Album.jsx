@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const images = Array.from({ length: 96 }).map(
+const images = Array.from({ length: 115 }).map(
     (_, i) => `/album/${i + 1}.webp`
 );
 
