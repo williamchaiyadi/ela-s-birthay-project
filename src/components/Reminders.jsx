@@ -21,7 +21,7 @@ export default function Reminders() {
             <p className="font-semibold text-lg">💌 Pesan kecil untuk Ela:</p>
             <br />
             <p className="italic mb-2">
-                "Ini sedikit reminder dari aku untuk el, biar hari-hari kamu tetep hangat dan semangattt 💖"
+                "Ini sedikit reminder dari aku untuk El, biar hari-hari kamu tetep hangat dan semangattt 💖"
             </p>
         </div>
 

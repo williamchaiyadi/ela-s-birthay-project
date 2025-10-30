@@ -27,7 +27,67 @@ const Message = () => {
                 2025-09-27 12.38`
         },
 
-        { id: 2, 
+        { 
+            id: 2, title: "Good Morningg Sunshineee 🌻🌞", body: 
+                `Good morningggg my sunshineeee ☀️🌼
+
+                Selamattt pagiiii dan selamattt bangunnn, my favv personn in the whole universeee 😚💞. Howw'sss ur sleeep last nighttt??? Nyenyakk kahhh??? 💤 Semoga mimpi kamu indahhh yaaa dan semogaa yang kamu mimpiin tuh hal-hal yang bisa bikin kamu senyum pas bangunnn 😆. Aku harap sihhh, aku juga muncul di mimpi kamuuu walaupun cuma dikittt hehehehehehe 😝💭💞. 
+
+                Anywayyyy, hari baru udah datengg nihhhh 🌅✨. Saatnya kamu mulai hari lagi dengan penuhh semangat yang baruuu dan hari yang penuh sukacitaaa 🤗🌈. Apapun yang kamu hadapi hari inii, entah nugass, belajarr, kuliahh, ataupun rutinitas biasaa, aku yakin kamu bisa ngelewatin semuanya dengan baikk bangetttt 💪. Kamu tuh kuatt, rajin dan punya hati yang luarr biasaaa lembuttt 💖. 
+
+                Ohhh yaaa, kamu jangan lupa sarapan yaaa 🍞🥛, biar energi kamu full dair pagiii 🔋⚡. Minum air jugaa, jangan langsung buka HP lama-lamaa 📱. Ambil waktu bentar buat bersyukur, tarik napas pelan, dan bilang ke diri kamu sendiri: "Hari ini aku mau bahagiaa, aku mau semangatt, dan aku bisaa!!!" 💕
+
+                Aku doainnn semoga sepanjang hari inii, kamu dikasih kedamaian, berkat, kebahagiaan, dan hal-hal kecil yang bisa bikin kamu senyum terusss 🌻. Kalau kamu capeee, ingett yaaa, ada aku yang selalu bangga dan selalu support kamu dari jauhhh. Aku percaya sama kamuu, sayanggg 🤍. Kamu tuh hebatt bangett, dan aku selalu bersyukur bisa sama kamuuu. 
+
+                Soo, let's startt the dayy with a biggg smileee 😄☀️. Semangatt teruss yaa jalanin harii inii, jangan takut buat jadi diri kamu sendirii. Yesus pasti selalu jagain langkah kamu anywhere and anytimeee 🙏✨. 
+
+                Havee a blessed and wonderfull dayy yaa, sayanggkuuu, cintaakkuuu, manisskuuu, clingyykuu, duniakkuu, bahagiaakuu, babyyykuuu, hatiikuuuu, matahariikuu, bulannkuu, bintanggkuuu, cantikkuuu, dan semuaanyaaaaaa 💞🌤️. You gottt thisss!!! I love u more than yesterday and i'll keep loving you again andd againnnn 😘💗
+
+                📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.
+                `
+        },
+
+        { 
+            id: 3, title: "Good Night My World 🌠🌎", body: 
+                `Good nighttt, yangggg 🌙💫
+
+                Akhirnyaa hari ini selesaii jugakkkk yaaaa hahaahaaha. Pasti capek bangett yaa dari pagi udah ngerjain ini ituu, ngelakuin banyak hall dan lainnnyaaaa. Tapi aku bangga bangett sama kamuu, udah tetep kuat dan semangattt!!!! I'm very proudd of uuu 🥰💪💪
+
+                Kamu tuh selalu kerenn bangett tauu, selalu berjuangg dan kadang aku mikir.. gimana bisa sih ada orang sekuat kamu yang masih bisa tetep lembut dan caree kayak gituuu ❤️. Jadii, sebelum kamu tidurr, aku cuma mau bilang terima kasih yaaa... karena udah jadi versi terbaik dari diri kamu hari inii 🤗✨
+
+                Soo, sekarang waktunya kamu istirahat yaa, byyy. Biarin tubuh kamu tenang, pikiran kamuu damaii, dan hari kamu juga ikut happyy. Jangan dipikirin dulu aktivitas yang lainnn, jangan mikirin hal-hal yang lainnn, semuanya bisa diselesaiin besok pelan-pelannn. 
+
+                Semoga malam ini kamu tidur yang nyenyakk yaaa, dan semoga mimpiiin hal-hal yang bikin kamu senyum pas bangun nantiii. Ehh, kalau bisa sih mimpiin aku juga dikit gapapa kali yaaaaa HEHEHEHEHE 😝💞
+
+                Sebelum tidurr, jangan lupa doa dulu yaa sayanggg 🙏✨. Ajak Yesus, Para Malaikat, dan Roh Kudus jagain kamu malam ini. Biar Yesus juga peluk kamu lewat mimpii dan bangunin kamu besok pagi dengan hati yang penuh damaii ☀️ Semoga semua lelah kamu hari ini terbayar dengan ketenangan malam yang indahhh. 
+
+                Besok pas kamu bangunn, semoga kamu ngerasa segerm semangat, dan siapp buat jalanin hari lagi dengan happyyy, jadi semua orang juga bisa ketularan happy-nya kamuu 🥰. Dan semoga apapun yang kamu kerjain dan lakuin, bisa menjadi berkat buat semuanya karena hari kamu yang tulusss bangettt. 
+
+                Ingeet yaa, jangan lupa minum air duluu sebelum tidurr 💧, jangan scroll-scroll sosmedd kelamaan 📱, dan pastiin kamu tidur dengan keadaan nyamannn. Kamu udah cukup berjuang hari ini. 
+
+                Aku bakal selalu dukung kamu, selalu doain yang terbaik buat kamu, dan selalu sayang sama kamu, apapun yang terjadi. Kamu nggak jalan sendirian kokk, aku disini selalu jagain dan selalu bangga sama kamu 💫 . 
+
+                Tidur nyenyak yaa sayanggg 😚💤 Semoga mimpi kamu seindah senyum kamu 💞 Good nighttt my favorit person 🌙💐 See you in the morninggg ☀️💛 Love youu moree and moree everydayyy 💕💕
+
+                📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.
+                `
+        }, 
+
+        { 
+            id: 4, title: "Selamat Ujiann!!! ✊📚📑", body: 
+                `Alloowwww sayanggkuuu, 😚 Semanggattt yaaaa buat ujiann hari iniii!!! 💪💪 Aku tauu kok kamu pasti udah belajar dengan kerass bangett buat ujiann inii, udah begadang, udah nyiapin semuaanyaa dan penuhh persiapannn, andd aku bangga bangett sama kamuuu ❤️
+
+                Jangan dibawa tegangg buat ujiann hari ini yaa, sayanggg. Take a deep and relaxing breathh, dan bilang ke diri kamu sendiri "All Is Welll!" WKKWKWKWWK. Kamu tuh sebenarnya udah bisaa, tinggal nunjukkin ajaa hasil dari semua kerja keras kamu selama inii. Jangan terlalu fokus ke takut salah atau lupa yaa, fokus aja ke yang kamu tau dan percayain diri kamu sendirii!! Kamu hebatt kokk, kamu rajin dan tekuunnn, soo pasti bisa bangett buat ngelewatin semuanyaa dengan lancarrr!!!✨
+
+                Kalau nanti kamu ngerasa panik, berhenti sebentar, tarik napas, dan ingettt.. kamu gak sendiriann 🤍 ada aku yang selalu doain kamu dari jauhh, biar Tuhan terus bantu dan tenangin hati kamuuu. 
+
+                Apapun hasilnya nanti, kamu udah hebat banget bisa berjuang sejauh inii 🌷. So proudd of u, alwayssss 😚. Jangan lupa senyum yaa abis ujiannn iniii, biar capeknya hilang pelan-pelannn 🌈. Kalau bisa i give u virtual hug, hahahahahaha. 
+
+                📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.
+                `
+        },
+
+        { id: 5, 
             title: "Kamu kangen sama aku? 🥰", 
             body: `Haii byyy, kamu kangen yaa sama akuu?? Hahahaa 😆 It's alrightttt….. Jangan sedihh, jangan nangiss, sayangg... Aku juga kangen sama kamuuu... 
 
@@ -42,7 +102,7 @@ const Message = () => {
             📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.` 
         },
 
-        { id: 3, 
+        { id: 6, 
             title: "Kamu cape? Baca aku yaa 😪", 
             body: `Haii byyy 🖖. Lohh? Kamu kenapaa, sayangg??? Kamu cape?? Ouwwwww 🥺 It's okaayyy, byyy.... Don't be saddd. Siniii aku peluk kamuu duluu supaya sadd nya hilangg 🤗. It's alright, sayangg. Jangan terlalu dipikirkann, jangan terlalu dibawa masuk sampai ke dalamm. Jangan terlalu overthinkk.
 
@@ -57,7 +117,7 @@ const Message = () => {
             📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.`
         },
 
-        { id: 5, 
+        { id: 7, 
             title: "Wuiihh!! Ela lagi Happy Nieeehhh 😁", 
             body: `Haii babyy 🌞✨
 
@@ -74,7 +134,7 @@ const Message = () => {
             📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.`
         },
 
-        { id: 6, 
+        { id: 8, 
             title: "Kamu Overthinking Apa, Sayang? 🥺", 
             body: `Sayangggg, adaa apaa 🤗💕??? Kamu lagi kepikiran macem-macem yaa? It's okayyyy, babyy. Aku tau kok kamu orangnya sering banget overhinkingg sampai bikin diri kamu sendiri capee. Dikit-dikit mikir "Aku cukup nggak ya?" atau "Aku ada salah gak ya?". Padahal kamu gak usah mikirin itu banget, sayangg. 
 
@@ -85,14 +145,14 @@ const Message = () => {
             📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.` 
         },
 
-        { id: 7, 
+        { id: 9, 
             title: "Kamu Sibuk Banget, Ya? 😤", 
             body: `Ada apaa, ell? Kokk muka kamu kusut gituu? 🥺 Kamu cape yaa, sayang? To do list kamu gak ada habisnyaa? Aku paham kokk, kadang sibuk itu bikin kepala pusing dan hati rasanya sendirian. But don't scared, el, kamu nggak sendirian kok, byyy. Aku disini tetep temenin kamu dari jauh yang lagi super sibukk. Jadi, kamu tetep tau kalau aku selalu ada di belakang kamu, support kamu terus menerus. Okayy? I always proud of u bisa jalanin ini semuaa. Jangan lupa istirahat ya, sayang. Minum air, tarik nafas panjang, kalau udah ready, lanjut lagi pelan-pelan. Kamu hebat, babyy ❤️ Semangattt!!!
 
             📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.` 
         },
 
-        { id: 8, 
+        { id: 10, 
             title: "Birthday Letter 🎂", 
             body: `Haiii byyyy 💖 Haapppyyy Birtthhhdayyyy 🥳🥳 Tiupp lilin duluu yukkkssss 🎂🕯 Hahahahahaha
 
@@ -119,7 +179,28 @@ const Message = () => {
             📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.` 
         },
 
-        { id: 9, 
+        { id: 11, 
+            title: "An Explanation 🌙", 
+            body: `Hai ell, 
+            Aku gak tahu kamu bakal buka halaman ini lagi atau enggak, tapi kalau kamu baca ini… aku cuma mau jujur. Aku gak mau cari pembenaran, gak mau ngerayu, cuma mau ngomong apa adanya aja. 
+
+            Awalnya aku kira kamu cuma lagi capek, kamu cuma butuh waktu buat sendiri, kayak biasanya kalau kamu lagi banyak pikiran atau lagi bete. Tapi ternyata aku salah, aku baru sadar kalau kamu bukan cuma capek, tapi kamu juga marah, terluka, dan kecewa sama aku. 
+            Mungkin selama ini kamu udah ngerasa sakit, tapi kamu tahan itu. Kamu udah banyak ngertiin, banyak ngalah, banyak tutup mata atas kesalahan-kesalahan kecil yang aku lakuin. Tapi aku malah terus ngulang hal yang sama, terus ngelakuin hal bodoh yang bikin kamu capek sendiri. Kamu tutupin semuanya dengan keceriaan kamu, sampai akhirnya aku ngomong hal yang gak seharusnya aku ucapin… dan itu jadi titik di mana semuanya berubah. 
+
+            Waktu aku bilang kata itu, aku bener-bener gak sadar seberapa dalam itu bisa ngena ke kamu. Aku kira itu cuma candaan, tapi ternyata aku salah besar. Aku nyesel banget, ell. Aku nyesel karena udah ngebuat kamu ngerasa gak dihargain, padahal kamu sama sekali gak pantas buat ngerasain hal itu.
+            Soal “sayang-sayangan” itu… aku gak akan ngeles. Aku tahu aku salah banget. Aku gak sadar kalau itu bisa bikin kamu ngerasa gak yakin sama aku, bikin kamu ngerasa gak cukup. Padahal kamu tuh selalu cukup, bahkan lebih dari cukup. Aku yang gagal jadi orang yang bisa jaga perasaan kamu dengan bener.
+
+            Walaupun konteksnya waktu itu cuma bercanda, aku sadar candaan itu tetap nyakitin. Aku mungkin ngelakuinnya tanpa niat jahat, tapi hasilnya tetep bikin kamu gak nyaman, bikin kamu ngerasa gak dihargai, dan aku benar-benar nyesel karena itu. Aku harusnya bisa lebih jaga cara aku ngomong, apalagi ke orang yang aku sayang.
+            Aku tahu, maaf aja gak cukup buat balikin semuanya. Aku sadar banget kalau kepercayaan gak bisa langsung pulih kayak gitu aja. Tapi aku tetap mau bilang makasih. Makasih karena kamu masih mau maafin aku, padahal kamu gak harus. Makasih karena kamu udah jujur, walaupun jujur itu sakit banget buat aku. Dan makasih karena kamu pernah hadir di dalam hidup aku, ngubah aku, ngajar aku banyak hal, dan bikin aku sadar seberapa berharganya kamu buat aku.
+
+            Sekarang aku gak mau maksa kamu buat berubah pikiran. Aku tahu kamu butuh waktu, dan aku juga harus kasih ruang buat itu. Tapi dari hati yang paling dalam, aku masih pengen pelan-pelan ngebangun semuanya lagi. Aku masih pengen benerin yang aku rusak, bukan buat mengulang yang lama, tapi buat mulai lagi dengan cara yang lebih dewasa, lebih tenang, dan lebih tulus.
+
+            Kalaupun nanti ternyata semesta belum ngizinin, aku bakal tetap jalan. Tapi kalau Tuhan masih kasih kesempatan, aku janji aku bakal jaga kamu dan perasaan kamu dengan cara yang jauh lebih baik dari sebelumnya. Aku gak akan ngejar kamu dengan maksa. Aku cuma mau kamu tahu, rasa ini belum hilang. Aku masih sayang, masih pengen kamu, tapi kali ini aku mau nunjukin lewat tindakan, bukan sekadar kata.
+
+            Jaga diri kamu baik-baik ya, ell. Makan yang bener, jangan suka begadang, jangan lupa istirahat. Aku masih di sini, pelan-pelan belajar, pelan-pelan jadi lebih baik, sambil tetap nyimpen doa kecil kalau suatu hari nanti, Tuhan bawa kita balik, tapi kali ini di waktu yang lebih tepat dan aku nggak akan menyia-nyain kesempatan itu. 🌙` 
+        },
+
+        { id: 12, 
             title: "Thank You For Everything ✨", 
             body: `Alllowww Elaa... Bagaimana kabar kamuu???? Aku harap kamu baik-baik aja yaa. Anddd semoga kamu happy terusss sehingga happy kamu bisa tersebar ke semua orangg di penjuru duniaaa.. Hahahahahaa. Oh ya, sebenarnya di tulisan ini aku mau sharing aja sih perasaan aku sekarang setelah kita done. Bukan bermaksud mengambil simpati kamu atau apapun, enggak sama sekali. Aku gak ada niat ke arah sana. It's just a pure sharing thinggss. Kita mulai yaaa...
 
@@ -135,11 +216,11 @@ const Message = () => {
 
             Kalau suatu saat kamu baca tulisan ini, aku cuma mau kamu tahu, aku tulis ini bukan untuk bikin kamu balik, tapi untuk bilang bahwa aku bener-bener tulus sayang kamu waktu itu. Dan aku bersyukur pernah punya kamu.
 
-            See u on top ya? God bless you, Ela, Anddd Happyyy Birthdayyyyy. Baiyeeee.....  
+            See u on top ya? God bless you, Ela, Anddd Happyyy Birthdayyyyy. Baiyee! 🖖
             ` 
         },
 
-        { id: 10, 
+        { id: 13, 
             title: "Surat Untuk Ela 💌", 
             body: `Hai byy, aku mau ngomong serius sama kamu. 
 
@@ -181,7 +262,7 @@ const Message = () => {
 
             Lasty, i want to say thank you again ke kamu yang udah mau luangin waktu untuk membaca tulisan ini. I'm sorry kalau ada sesuatu yang buat kamu gak ngerti di tulisan ini atau bahkan banyak hal yang nggak konsisten dari ucapan aku, tapi aku harap kamu paham maksudnya, hehehe. Kalau kamu mau laporan ke aku dari yang penting sampai enggak penting, it’s okay to contact me, I always available, kok. It’s okay juga untuk cerita apapun ke aku, dari curhatnya kamu, keluh kesah kamu, dan semuanya. Karena aku enggak mau kalau kamu memanggul semua itu sendirian. Setidaknya kalau kita panggul berasama, terasa menjadi lebih ringan. Dan yang pasti, aku menunggu jawaban dari kamu dan jawaban dari Tuhan. 
 
-            Thank you for everything, Ela ❤️
+            Thank you for everything, Ela ❤️
 
             Liam
 
@@ -228,7 +309,7 @@ const Message = () => {
                     </button>
                     <br />
 
-                    {selectedChat.id === 10 && !isUnlocked ? (
+                    {selectedChat.id === 13 && !isUnlocked ? (
                         <div className="text-center space-y-4 py-8">
                             <h2 className="text-lg font-semibold text-gray-700">
                                 Surat ini dilock 🔒 
@@ -263,7 +344,7 @@ const Message = () => {
                                 ))
                             }
 
-                            {selectedChat.id !== 1 && selectedChat.id !== 9 && (
+                            {selectedChat.id !== 1 && selectedChat.id !== 11 && selectedChat.id !== 12 && (
                                 <p className="italic text-sm mt-10 pt-4 border-t border-gray-300 text-gray-500">
                                     📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.
                                 </p>
