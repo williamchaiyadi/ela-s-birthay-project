@@ -61,13 +61,13 @@ const Message = () => {
 
                 Sebelum tidurr, jangan lupa doa dulu yaa sayanggg 🙏✨. Ajak Yesus, Para Malaikat, dan Roh Kudus jagain kamu malam ini. Biar Yesus juga peluk kamu lewat mimpii dan bangunin kamu besok pagi dengan hati yang penuh damaii ☀️ Semoga semua lelah kamu hari ini terbayar dengan ketenangan malam yang indahhh. 
 
-                Besok pas kamu bangunn, semoga kamu ngerasa segerm semangat, dan siapp buat jalanin hari lagi dengan happyyy, jadi semua orang juga bisa ketularan happy-nya kamuu 🥰. Dan semoga apapun yang kamu kerjain dan lakuin, bisa menjadi berkat buat semuanya karena hari kamu yang tulusss bangettt. 
+                Besok pas kamu bangunn, semoga kamu ngerasa segerr semangat, dan siapp buat jalanin hari lagi dengan happyyy, jadi semua orang juga bisa ketularan happy-nya kamuu 🥰. Dan semoga apapun yang kamu kerjain dan lakuin, bisa menjadi berkat buat semuanya karena hari kamu yang tulusss bangettt. 
 
                 Ingeet yaa, jangan lupa minum air duluu sebelum tidurr 💧, jangan scroll-scroll sosmedd kelamaan 📱, dan pastiin kamu tidur dengan keadaan nyamannn. Kamu udah cukup berjuang hari ini. 
 
                 Aku bakal selalu dukung kamu, selalu doain yang terbaik buat kamu, dan selalu sayang sama kamu, apapun yang terjadi. Kamu nggak jalan sendirian kokk, aku disini selalu jagain dan selalu bangga sama kamu 💫 . 
 
-                Tidur nyenyak yaa sayanggg 😚💤 Semoga mimpi kamu seindah senyum kamu 💞 Good nighttt my favorit person 🌙💐 See you in the morninggg ☀️💛 Love youu moree and moree everydayyy 💕💕
+                Tidur nyenyak yaa sayanggg 😚💤 Semoga mimpi kamu seindah senyum kamu 💞 Good nighttt my fav person 🌙💐 See you in the morninggg ☀️💛 Love youu moree and moree everydayyy 💕💕
 
                 📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.
                 `
@@ -81,7 +81,7 @@ const Message = () => {
 
                 Kalau nanti kamu ngerasa panik, berhenti sebentar, tarik napas, dan ingettt.. kamu gak sendiriann 🤍 ada aku yang selalu doain kamu dari jauhh, biar Tuhan terus bantu dan tenangin hati kamuuu. 
 
-                Apapun hasilnya nanti, kamu udah hebat banget bisa berjuang sejauh inii 🌷. So proudd of u, alwayssss 😚. Jangan lupa senyum yaa abis ujiannn iniii, biar capeknya hilang pelan-pelannn 🌈. Kalau bisa i give u virtual hug, hahahahahaha. 
+                Apapun hasilnya nanti, kamu udah hebat banget bisa berjuang sejauh inii 🌷. So proudd of u, alwayssss 😚. Jangan lupa senyum yaa abis ujiannn iniii, biar capeknya hilang pelan-pelannn 🌈. Kalau bisa i gave u a virtual hug, hahahahahaha. 
 
                 📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.
                 `
@@ -110,8 +110,8 @@ const Message = () => {
 
             Aku tau kokk, kamu lagi di titik cape banget dengan jadwal kamu yang padatt dan kamu sangat butuh jeda untuk hal ituu. It's okayy, babyy. Itu manusiawii, stress dan cape itu wajarr bangett. Karena dibalik semua ini, akan ada hasil yang besar yang akan kamu dapat. Jangan takut kalau sekarang rasanya redup, bisa kok nyala lagi kalau waktunya pas dan akan lebih terang lagi. Always remember that i'll be here with u and for u..
 
-            Walaupun kamu lagi sibuk dan lain-lain, aku tetap selalu bisa jadi tempat kamu cerita dan curhat segala hal yang kamu pengen sampaikan. Aku gak mau kalau cerita-cerita yang bikin kamu overthinking atau bikin kamu makin cape kamu simpen sendrian walaupun saat ini kita lagi membatasi hubungan kita. 
-            
+            Walaupun kamu lagi sibuk dan lain-lain, aku tetap selalu bisa jadi tempat kamu cerita dan curhat segala hal yang kamu pengen sampaikan. Aku gak mau kalau cerita-cerita yang bikin kamu overthinking atau bikin kamu makin cape kamu simpen sendrian. 
+
             Okayy, babyy? Semangatt teruss yaaa, sayangg ❤️. Jangan mudah overthinking atas sesuatu. Jangan dipanggul sendirian. Kalau ada apa-apa, cerita ajaa. I Love u ❤️.
 
             📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.`
@@ -121,14 +121,14 @@ const Message = () => {
             title: "Wuiihh!! Ela lagi Happy Nieeehhh 😁", 
             body: `Haii babyy 🌞✨
 
-            Wahhh, kamu lagi happy yaa?? Hehehee ku jugaa ikutt happyy jugaa donggg. Lihat kamu atau denger kamu happy aja udah bikin hari aku cerah bagnett. Kamu sadar aku gampang banget dibuat senyum, padahal cuma tau kamu happy aku juga ikutann. 
+            Wahhh, kamu lagi happy yaa?? Hehehee ku jugaa ikutt happyy jugaa donggg. Liat kamu atau denger kamu happy aja udah bikin hari aku cerah bangett. Kamu sadar aku gampang banget dibuat senyum, padahal cuma tau kamu happy aku juga ikutann. 
 
-            Aku tuh pengen liat kamu bahagia gini teruss. Rasanya kayak beban di pundah aku jadi ringan banget kalau tau kamu lagi senengg. Kayak semua capek-capeknya aku kebayar lunas cuma dengan satu tawa kamu. U know what? Kamu itu sunshine buat aku, kalau kamu bersinar terang, aku juga ikutan hangat 🥰. 
+            Aku tuh pengen liat kamu bahagia gini teruss. Rasanya kayak beban di pundak aku jadi ringan banget kalau tau kamu lagi senengg. Kayak semua capek-capeknya aku kebayar lunas cuma dengan satu tawa kamu. U know what? Kamu itu sunshine buat aku, kalau kamu bersinar terang, aku juga ikutan hangat 🥰. 
 
             Aku juga mau ingetin kamu satu hal penting, sayang. Kamu layak banget bahagia, bukan cuma sekarang aja, tapi setiap harinyaa. Jangan pernah ngeremehin hal-hal kecil yang buat kamu seneng, entah itu makan ur favourite food, watching ur favourite movie, atau sekedar scroll ig/tikok aja. Itu semua bisa jadi alasan kamu senyumm. 
 
             Dan i promise, kapanpun dan dimanapun kamu lagi happy, aku selalu bakal jadi orang pertama yang ikutan seneng bareng kamu. Bahagia aku sederhana, cuma dengan kamu happy, aku udah lebih dari cukup, sayang. Soo, nikmatin moment happy kamu ini yaa, baby. Letakin semua worry dan overthinking kamu sebentar dan biarin suasana happy ini menyelumuti kamu ❤️.
-            
+
             Okayy??? I loveee youu soo muchh, hapyy soul kuu ✨❤️
 
             📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.`
@@ -166,7 +166,7 @@ const Message = () => {
 
             Oh iyaa, selain itu aku juga beliin kamu beberapa barang yang aku harap kamu sukaaa 🛍 Barang-barang ini aku pikirin banget dari awal project ini berjalan, dan jujur aku sempet gonta-ganti pilihan gara-gara overthinking wkwkwk 🙈 Takut kamu gak suka, takut gak cocok, tapi akhirnya aku milih yang menurut aku paling pas, yaitu tas ituu 👜 Semoga bisa berguna buat kamu yaaa 😚 Maaf kalau hadiahnya bukan hal yang mewah kayak cincin, gelang, atau bunga, tapi ini aku kasih dari hati yang paling dalam, tulus buat kamuuu~ 💖
 
-            Aku juga excitedd bangett sihh, sudah ngebayangin gimana kalau kita ngerayain ulang tahun kamu bareng-bareng. Entah itu makan bareng, atau cuma sekadar tiup lilin via video call, yang penting barenggg 🤭 Tadinya aku juga mau bikin surprise lohh, tapi yaa kamu tau sendiri aku gak bakat yang begitu-begitu wkwkwkwk 🤣 jadi aku pikir mending aku jujur aja HAHAHA
+            Aku juga excitedd bangett sihh, udah ngebayangin gimana kalau kita ngerayain ulang tahun kamu bareng-bareng. Entah itu makan bareng, atau cuma sekadar tiup lilin via video call, yang penting barenggg 🤭 Tadinya aku juga mau bikin surprise lohh, tapi yaa kamu tau sendiri aku gak bakat yang begitu-begitu wkwkwkwk 🤣 jadi aku pikir mending aku jujur aja HAHAHA
 
             Anywayyy in busswayyy to hawaayyy 🚌🌴 aku cuma mau bilang makasih banyaaakkk buat semuanyaaa. Makasih udah hadir di hidup aku, udah jadi sosok yang bisa bikin aku senyum tiap hariii 😆💞 Kamu tuh beneran kayak vitamin mood versi manusiaa 😝 tiap kali ngobrol sama kamu tuh rasanya adem, hangat, nyaman, bahkan kadang bikin ngantuk karena aku ngerasa tenang banget 😴💗 Mau kamu lagi bete, clingy, happy, atau random gak jelas pun, asal kamu cerita aja itu udah cukup buat aku semangat lagi 😆🌈
 
@@ -197,7 +197,7 @@ const Message = () => {
 
             Kalaupun nanti ternyata semesta belum ngizinin, aku bakal tetap jalan. Tapi kalau Tuhan masih kasih kesempatan, aku janji aku bakal jaga kamu dan perasaan kamu dengan cara yang jauh lebih baik dari sebelumnya. Aku gak akan ngejar kamu dengan maksa. Aku cuma mau kamu tahu, rasa ini belum hilang. Aku masih sayang, masih pengen kamu, tapi kali ini aku mau nunjukin lewat tindakan, bukan sekadar kata.
 
-            Jaga diri kamu baik-baik ya, ell. Makan yang bener, jangan suka begadang, jangan lupa istirahat. Aku masih di sini, pelan-pelan belajar, pelan-pelan jadi lebih baik, sambil tetap nyimpen doa kecil kalau suatu hari nanti, Tuhan bawa kita balik, tapi kali ini di waktu yang lebih tepat dan aku nggak akan menyia-nyain kesempatan itu. 🌙` 
+            Jaga diri kamu baik-baik ya, ell. Makan yang bener, jangan suka begadang, jangan lupa istirahat. Aku masih di sini, pelan-pelan belajar, pelan-pelan jadi lebih baik, sambil tetap nyimpen doa kecil kalau suatu hari nanti, Tuhan bawa kita balik, tapi kali ini di waktu yang lebih tepat dan aku nggak akan menyia-nyain kesempatan itu.` 
         },
 
         { id: 12, 
@@ -226,7 +226,7 @@ const Message = () => {
 
             Lewat tulisan ini, aku mau ceritain beberapa hal yang belum sempet aku bilang ke kamu. Tulisan ini nggak langsung aku tulis dari pikiran dan hati aku, tapi butuh waktu lama buat aku ceritain semuanya dan butuh waktu juga buat sempurnain semuanya. Ya, seperti yang kita tau, kalau kita sama-sama sibuk, dan belum punya banyak waktu buat ngobrol bareng. Jadi, kalau kamu merasa lagi sibuk atau belum siap saatnya buat baca tulisan ini, it's okay. Kamu bisa baca ini di lain waktu kalau kamu udah siap, karena isi dari tulisan ini adalah semua overthinking aku yang belum bisa diceritain ke kamu.
 
-            First of all, aku mau bilang thank you ke kamu sebesar-besar dan sebanyak-banyaknya. Aku bersyukru banget kamu udah hadir dan nyediain waktu kamu untuk aku. Mungkin tanpa kamu, bakal sulit buat aku untuk berproses menjadi sampai sekarang ini. Kamu buat aku membuka mata akan banyak hal, terlebih dari sisi iman aku. Kamu selalu ngajak aku buat saat teduh bareng, ceritain bible story setiap malem, dan hal-hal lainnya yang secara gak langsung menampar iman aku yang kurang ini buat menjadi lebih tekun lagi. Dari pov aku secara personal, sekarang aku jadi paham bagaimana sulitnya proses menjadi ela yang dewasa ini, dan aku juga paham perjalanan kamu mengenal dan mencintai Tuhan lebih dalam lagi. Cerita-cerita kamu itu yang menjadi motivasi aku bagaimana menjadi diri aku yang lebih baik. So, once again, thank you telah hadir di hidup aku, dan aku bersyukur akan hal itu. 
+            First of all, aku mau bilang thank you ke kamu sebesar-besar dan sebanyak-banyaknya. Aku bersyukur banget kamu udah hadir dan nyediain waktu kamu untuk aku. Mungkin tanpa kamu, bakal sulit buat aku untuk berproses menjadi sampai sekarang ini. Kamu buat aku membuka mata akan banyak hal, terlebih dari sisi iman aku. Kamu selalu ngajak aku buat saat teduh bareng, ceritain bible story setiap malem, dan hal-hal lainnya yang secara gak langsung menampar iman aku yang kurang ini buat menjadi lebih tekun lagi. Dari pov aku secara personal, sekarang aku jadi paham bagaimana sulitnya proses menjadi ela yang dewasa ini, dan aku juga paham perjalanan kamu mengenal dan mencintai Tuhan lebih dalam lagi. Cerita-cerita kamu itu yang menjadi motivasi aku bagaimana menjadi diri aku yang lebih baik. So, once again, thank you telah hadir di hidup aku, dan aku bersyukur akan hal itu. 
 
             Sebenarnya awal aku interest sama kamu itu di tahun 2021/2022 (aku lupa), pada saat kita krisma. Aku notice kamu di kelas itu, karena apalagi kalau bukan karena kencantikan kamu. Tapi setelah selesai krisma, kita gak pernah ketemu lagi. Tapi mungkin Tuhan mempertemukan kita lagi di acara nobar film tahun 2023 untuk promosi camping Panggilan Alam. Seperti yang pernah aku ceritain ke kamu, aku notice kalau ada kamu disitu setelah selesai acara. Setelah itu aku minta devi kenalin aku sama kamu, karena pada saat itu aku juga lagi mencari seseorang untuk hadir menemani aku. Dan tejadilah perkenalan pertama kita di natal 2023. Aku merasa aku fall in love banget sama kamu, hehehe. Kamu memang cantik banget, dan sampai sekarang juga masih sama cantiknya. Tapi di saat itu aku belum berani untuk mengungkapakn semua, dan aku juga malu buat ngobrol lebih dalam lagi sama kamu. Lalu berlanjut sampai 2024, aku mengejar kamu sampai masuk jadi pendamping Bina Iman, yang alasan selain karena panggilan, salah satu faktor aku masuk ke BIA adalah karena mau ngejar kamu.  
 
