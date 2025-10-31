@@ -41,10 +41,7 @@ const Message = () => {
 
                 Soo, let's startt the dayy with a biggg smileee 😄☀️. Semangatt teruss yaa jalanin harii inii, jangan takut buat jadi diri kamu sendirii. Yesus pasti selalu jagain langkah kamu anywhere and anytimeee 🙏✨. 
 
-                Havee a blessed and wonderfull dayy yaa, sayanggkuuu, cintaakkuuu, manisskuuu, clingyykuu, duniakkuu, bahagiaakuu, babyyykuuu, hatiikuuuu, matahariikuu, bulannkuu, bintanggkuuu, cantikkuuu, dan semuaanyaaaaaa 💞🌤️. You gottt thisss!!! I love u more than yesterday and i'll keep loving you again andd againnnn 😘💗
-
-                📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.
-                `
+                Havee a blessed and wonderfull dayy yaa, sayanggkuuu, cintaakkuuu, manisskuuu, clingyykuu, duniakkuu, bahagiaakuu, babyyykuuu, hatiikuuuu, matahariikuu, bulannkuu, bintanggkuuu, cantikkuuu, dan semuaanyaaaaaa 💞🌤️. You gottt thisss!!! I love u more than yesterday and i'll keep loving you again andd againnnn 😘💗`
         },
 
         { 
@@ -68,8 +65,6 @@ const Message = () => {
                 Aku bakal selalu dukung kamu, selalu doain yang terbaik buat kamu, dan selalu sayang sama kamu, apapun yang terjadi. Kamu nggak jalan sendirian kokk, aku disini selalu jagain dan selalu bangga sama kamu 💫 . 
 
                 Tidur nyenyak yaa sayanggg 😚💤 Semoga mimpi kamu seindah senyum kamu 💞 Good nighttt my fav person 🌙💐 See you in the morninggg ☀️💛 Love youu moree and moree everydayyy 💕💕
-
-                📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.
                 `
         }, 
 
@@ -82,8 +77,6 @@ const Message = () => {
                 Kalau nanti kamu ngerasa panik, berhenti sebentar, tarik napas, dan ingettt.. kamu gak sendiriann 🤍 ada aku yang selalu doain kamu dari jauhh, biar Tuhan terus bantu dan tenangin hati kamuuu. 
 
                 Apapun hasilnya nanti, kamu udah hebat banget bisa berjuang sejauh inii 🌷. So proudd of u, alwayssss 😚. Jangan lupa senyum yaa abis ujiannn iniii, biar capeknya hilang pelan-pelannn 🌈. Kalau bisa i gave u a virtual hug, hahahahahaha. 
-
-                📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.
                 `
         },
 
@@ -97,9 +90,7 @@ const Message = () => {
 
             Walaupun sekarang ini kita belum bisa ketemuu, aku yakin bakal ada saatnya kokkk. Hari di mana kita ketemu dan spend a lot of time bareng lagii. Sementara itu, kamu perlu sabar dulu yaaa, nantii kita juga bakal bertemuuu. Simpen dulu rindunyaaa. Jangan lupa buat jaga diri dan fokus ke diri sendirii, makan yang benerr, istirahat yang cukupp. Aku tetap disini kokk, gak akan kemana-manaa. Aku tetap sayang kamu, dan tetap kasih doa yang terbaik buat kamu. 
 
-            Okayy?? See u till we met yaa? Gak sabar juga aku buat ketemu sama kamuuu... I really miss u too, cantikk.. ❤️
-
-            📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.` 
+            Okayy?? See u till we met yaa? Gak sabar juga aku buat ketemu sama kamuuu... I really miss u too, cantikk.. ❤️`
         },
 
         { id: 6, 
@@ -112,9 +103,7 @@ const Message = () => {
 
             Walaupun kamu lagi sibuk dan lain-lain, aku tetap selalu bisa jadi tempat kamu cerita dan curhat segala hal yang kamu pengen sampaikan. Aku gak mau kalau cerita-cerita yang bikin kamu overthinking atau bikin kamu makin cape kamu simpen sendrian. 
 
-            Okayy, babyy? Semangatt teruss yaaa, sayangg ❤️. Jangan mudah overthinking atas sesuatu. Jangan dipanggul sendirian. Kalau ada apa-apa, cerita ajaa. I Love u ❤️.
-
-            📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.`
+            Okayy, babyy? Semangatt teruss yaaa, sayangg ❤️. Jangan mudah overthinking atas sesuatu. Jangan dipanggul sendirian. Kalau ada apa-apa, cerita ajaa. I Love u ❤️.`
         },
 
         { id: 7, 
@@ -129,9 +118,7 @@ const Message = () => {
 
             Dan i promise, kapanpun dan dimanapun kamu lagi happy, aku selalu bakal jadi orang pertama yang ikutan seneng bareng kamu. Bahagia aku sederhana, cuma dengan kamu happy, aku udah lebih dari cukup, sayang. Soo, nikmatin moment happy kamu ini yaa, baby. Letakin semua worry dan overthinking kamu sebentar dan biarin suasana happy ini menyelumuti kamu ❤️.
 
-            Okayy??? I loveee youu soo muchh, hapyy soul kuu ✨❤️
-
-            📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.`
+            Okayy??? I loveee youu soo muchh, hapyy soul kuu ✨❤️`
         },
 
         { id: 8, 
@@ -140,9 +127,7 @@ const Message = () => {
 
             Aku nggak pernah minta kamu jadi orang lain. Aku fall in love sama kamu karena kamu apa adanya. Cara kamu ketawa, cara kamu bercanda, bahkan sampai cara kamu ngambek receh aja bikin aku makin sayang sama kamu. Jadi tolong yaa, jangan ngeraguin diri kamu sendiri. Kamu itu berharga banget, nggak cuma buat aku, tapi buat kamu juga.
 
-            Kalau overthinking itu dateng lagi, take a deep breath 😮‍💨. Always remember that u never alone, sayang. I'm always here to support u, jadi tempat cerita kamu. Aku nggak mau kamu kepikiran terus. Mau sekecil apapun masalah yang dihadepin, akan jadi jauh lebih ringan kalau kita hadapin bareng-bareng. So please, jangan biarin overhinking itu jadi kepikiran terus ya, my love.
-
-            📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.` 
+            Kalau overthinking itu dateng lagi, take a deep breath 😮‍💨. Always remember that u never alone, sayang. I'm always here to support u, jadi tempat cerita kamu. Aku nggak mau kamu kepikiran terus. Mau sekecil apapun masalah yang dihadepin, akan jadi jauh lebih ringan kalau kita hadapin bareng-bareng. So please, jangan biarin overhinking itu jadi kepikiran terus ya, my love.` 
         },
 
         { id: 9, 
@@ -174,9 +159,7 @@ const Message = () => {
 
             Once againn, Happpyyy Birthdaayyy my lovelyyy Elaaa 🎂🕯✨💖 Semoga kamu selalu dikelilingi cinta, kedamaian, dan kebahagiaan setiap harinya 😍 Aku sayang banget sama kamu, dan aku harap hari ini jadi salah satu hari paling spesial di hidup kamuuu 🥳💞
 
-            Love uuuuu so so muchhh byyyyy 💋💖💖
-
-            📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.` 
+            Love uuuuu so so muchhh byyyyy 💋💖💖` 
         },
 
         { id: 11, 
@@ -242,6 +225,8 @@ const Message = () => {
 
             Di gereja, kita masih malu-malu kucing karena nggak mau terlihat dekat dan memiliki hubungan, padahal nyatanya orang-orang udah tau kita ini dekat banget. Pasti salah satu atau bahkan kita berdua selalu agak menjauh, karena takut dikira punya hubungan, apalagi ke orang-orang yang kenal kamu, kita sangat menjaga banget hal itu. Di lain sisi aku merasa berasalah juga kalau kita harus terus nutupin kedekatan kita ini entah sampai kapan.  Makanya, aku mau kita terbuka aja ke orang-orang, tapi gak yang sangat terbuka. Maksud aku disini adalah terbuka kita deket seperti biasa, bukan deket peluk-pelukan atau gelendotan, tapi dekat seperti sahabat, saling care dan gak perlu malu-malu. Aku pernah ngobrolin ini sama Devi, intinya, selama kita terus berusaha menutupi kedekatan kita ini, kita bakal diomongin terus, padahal kalau kita terbuka aja, lama-lama mereka juga mengerti dan cuek. Omongan atau ceng-cengan itu bakal berlalu dengan sendirinya kok. 
 
+            Mungkin ini juga karena aku bisa dibilang awam dalam dunia percintaan. Aku gak peka banget terhadap kamu dan seringkali gak sesuai sama apa yang kamu inginin, mau dari tindakan atau kata-kata. Orang juga sering banget kasih aku advice-advice soal hubungan, tapi (mungkin karena aku terlalu egois) aku gak dengerin mereka sepenuhnya, karena aku percaya setiap hubungan punya caranya masing-masing, gak bisa disamain. Contohnya waktu momen kuah angkak itu yang akhirnya bikin kamu diomelin, itu sebenarnya ide dari orang lain, dan dari situ aku belajar buat berhenti terlalu nurut sama saran orang-orang. Aku lebih pilih buat belajar dari cerita mereka tentang hubungan, bukan disuruh harus ini-itu. Karena menurut aku, hubungan akan rusak kalau salah satu dari pasangannya terlalu dengerin dan nurut sama orang luar. Kadang orang lain gak perlu ikut campur terlalu jauh, cukup tahu aja kita ada di mana. That's why akhir-akhir ini aku jarang banget cerita ke orang-orang tentang hubungan kita, dan aku cuma tanya-tanya hal yang perlu aja, itupun ke orang-orang yang menurut aku kompeten (ex: Ci Silvi, Devina, Ester, Ci Shully, Ci Ailin, Ko Kevin)
+
             Untuk persoalan papi mami kamu, to be honest, aku sadar kita nggak bisa untuk memaksa supaya papi dan mami kamu bisa menerima aku ini, pasti semua butuh waktu supaya berjalan. Kamu belum boleh pacaran, itu juga memang keputusan dari papi dan mami kamu. Selain itu, kegiatan kamu juga dibatasi oleh mereka, sehingga ada muncul sedikit perasaan membengkang dari diri kamu. Kesimpulannya, sebenarnya niat mereka sebagai orang tua adalah menjauhkan kamu dari hal-hal yang buruk, dan itu keputusan terbaik yang bisa mereka berikan kepada kamu. Sama halnya dimana pas kita ketahuan lagi vidcall, mami kamu langsung tanya-tanya soal aku ke kamu. Itu feeling dari seorang ibu, mami kamu nggak mau kalau kamu pacaran di waktu yang masih terbilang muda. Mami kamu mau kamu fokus dengan apa yang di depan, untuk masa depan kamu. Mami kamu juga merasa aku ini belum cukup dari sisi manapun, dan itu adalah hal yang wajar. Selain karena masih muda, aku juga belum ketemu sama mami papi kamu untuk ngomongin masa depan bareng kamu. 
 
             Aku nggak mau kita begini terus, aku nggak mau kamu bohong terus ke papi dan mami kamu soal kedekatan kita. Aku mau kedekatan kita ini transparan ke papi mami kamu. Karena aku juga yang merasa bersalah kamu harus bohong ke papi mami kamu hanya untuk spending time sama aku. Kalaupun papi mami kamu udah tau, kita nggak perlu lagi nutup-nutupin ini semua. Walapun aku merasa takut juga, aku tetep seorang laki-laki, harus ketemu sama orang tua kamu. Ibarat kayak interview kerja aja, HRD perlu tau sifat dan karakteristik calon pegawainya bagaimana. HRD tidak terpaku sama data aja, melainkan pembicaraan secara langsung. Keputusan pastinya dari papi mami kamu akan terlihat seiring waktu berjalan. 
@@ -267,8 +252,6 @@ const Message = () => {
             Liam
 
             20-10-2025
-
-            📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.
             ` 
         },
     ];
@@ -346,7 +329,7 @@ const Message = () => {
 
                             {selectedChat.id !== 1 && selectedChat.id !== 11 && selectedChat.id !== 12 && (
                                 <p className="italic text-sm mt-10 pt-4 border-t border-gray-300 text-gray-500">
-                                    📜 This message was written back when everything was still warm between us, before the storm. I decided to keep it here, because even after everything, the feeling was real.
+                                    📜 This message was written when things were still warm and full of smiles. I decided to keep it here, as a reminder that what we had was once something real and beautiful.
                                 </p>
                             )}
                         </div>

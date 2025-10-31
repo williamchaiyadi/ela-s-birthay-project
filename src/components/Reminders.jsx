@@ -2,17 +2,17 @@ import React from 'react'
 
 export default function Reminders() {
     const reminders = [
-        "Haaai Elaaa 😆 jangan lupa senyum hari ini, biar dunia ikut happy juga!",
-        "Eh byy, jangan lupa minum air yaa 💧 kalo aku liat kamu lemes, aku bakal worry 😢",
-        "Kamu keren bangettt 🌷 jangan lupa istirahat ya, aku juga mau kamu sehat terus!",
-        "Tarik napas dalam-dalam... Lepas semua stress, hahaa aku ikut napas juga 😌",
-        "Jangan lupa makan, aku tau kamu suka lupa makan kalo sibuk 🤭 perutmu penting lohh! Jangan maag dateng duluann!",
-        "Tidur yang cukup yaaa, jangan begadang terus 😴 aku bakal jagain kamu dari jauh",
-        "Semangat yaaa, kamu pasti bisaaa 😎 aku percaya sama kamu lebih dari aku percaya sama aku sendiri 😂",
-        "Kalau lagi capek, ingat aku sayang kamu 😘 dan kamu masih punya aku yang kadang random banget",
+        "Saayaanggggg 😆 Jangan lupa senyummm yeeaaaaaaa, biar dunia tauu senyum maniss kamuuu buat happyyyyy!! 🌎",
+        "Minumm airr putihh yang banyak yaaa, byyyy 💧 Kalau kamu kurangg minumm, nanti aku worryy 😢",
+        "Jangan lupaa istirahatt yaaa, byyy.. Jangan terlalu push diri kamuuu! 🌷",
+        "Tarik napass duluu dalemm-dalemm, relaxing badann kamuu, kalau udah siap lanjuttinn lagiii 😌",
+        "Jangan lupa makannn yaaaa 🤭 Perut kamuu penting lohh! Jangan sampee maag dateng duluann!",
+        "Tidur yang cukup yaaa, jangan begadang terus 😴 Masih ada hari esokk buat dijalaninnn..",
+        "Semangat yaaa babyyyy 💕, kamu pasti bisaaa 😎 Aku percayaa sama kamuu pastiii bisaaaa!!!",
+        "Kalau lagi capek, ingattt teruss aku sayang kamu 😘 dan kamu masih punya aku yang kadang random banget",
         "Haaaii Ela, jangan lupa dengerin musik yang bikin kamu senyum 😁 biar aku juga senyum bayangin kamu",
-        "Kalo kamu stress, ingat ini: Liam selalu dukung kamu, meskipun kadang sok lucu dan lebay 🤪",
-        "Udah sateee belummm?? Satee dulu dongg sayangggg. Aktivitas memang penting, tapi jangan sampai lupainn Yesus yaaa ✝"
+        "Kalo kamu lagii stress, ingettt: Liam selalu dukung kamu, kapanpunn dan dimanapunnn 🤪 Liam juga selalu ada buat elll!!",
+        "Udah sateee belummm?? Satee dulu dongg sayangggg. Aktivitas memang penting, tapi selalu ingett Tuhan Yesus yaa ✝"
     ]
 
     return (
