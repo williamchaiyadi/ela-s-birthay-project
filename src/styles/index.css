@@ -188,4 +188,19 @@ html {
     nav[role="tablist"] span.hidden.sm\:inline {
         display: inline !important;
     }
+
+    .lightbox-button {
+        font-size: 2rem;
+        padding: 0.25rem 0.5rem;
+    }
+
+    .lightbox-prev { left: 3%; }
+    .lightbox-next { right: 3%; }
+
+    .lightbox-close {
+        top: 4%;
+        right: 6%;
+        font-size: 2.5rem;
+        padding: 0.15rem 0.45rem;
+    }
 }
