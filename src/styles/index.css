@@ -94,58 +94,95 @@ html {
     scroll-behavior: smooth;
 }
 
+.lightbox-wrapper {
+    @apply fixed inset-0 z-[9999] flex items-center justify-center bg-black/80 backdrop-blur-sm transition-opacity duration-300;
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.lightbox-wrapper.opacity-0 {
+    opacity: 0 !important;
+    pointer-events: none !important;
+}
+
+.lightbox-image {
+    @apply max-w-[95%] max-h-[90%] rounded-2xl shadow-2xl object-contain transition-transform duration-500 ease-in-out;
+    animation: zoom-in 0.35s ease forwards;
+}
 
 .lightbox-button {
-    @apply absolute text-white text-4xl font-bold cursor-pointer transition-transform duration-300 select-none;
+    @apply absolute text-white text-5xl font-bold cursor-pointer select-none transition-transform duration-300;
+    border-radius: 9999px;
+    padding: 0.3rem 0.8rem;
+    line-height: 1;
+    z-index: 10000;
 }
 
 .lightbox-button:hover {
-    transform: scale(1.2);
-}
-
-.lightbox-prev { 
-    @apply left-8; 
-}
-
-.lightbox-next { 
-    @apply right-8; 
-}
-
-.lightbox-close {
-    @apply absolute top-6 right-8 z-[10000] text-white text-4xl font-bold cursor-pointer transition-transform duration-300 select-none;
-    border-radius: 9999px;
-    padding: 0.2rem 0.6rem;
-    line-height: 1;
-}
-
-.lightbox-close:hover {
-    transform: scale(1.2);
     color: var(--accent);
 }
 
-.lightbox-close:hover { 
-    color: var(--accent); 
+.lightbox-prev {
+    @apply left-5;
+    top: 50%;
+}
+
+.lightbox-next {
+    @apply right-5;
+    top: 50%;
+}
+
+.lightbox-close {
+    @apply absolute top-5 right-6 text-white text-5xl font-bold cursor-pointer select-none transition-transform duration-300;
+    border-radius: 9999px;
+    padding: 0.3rem 0.7rem;
+    z-index: 10001;
+}
+
+.lightbox-close:hover {
+    color: var(--accent);
 }
 
 @media (max-width: 640px) {
     nav[role="tablist"] {
-        gap: 0.2rem !important; 
+        gap: 0.25rem !important;
         justify-content: center;
     }
-
     nav[role="tablist"] button {
-        padding: 0.35rem 0.45rem !important;
+        padding: 0.3rem 0.4rem !important;
         font-size: 1rem !important;
     }
-
     nav[role="tablist"] span.text-lg {
         display: inline-block !important;
         font-size: 1.1rem !important;
         line-height: 1;
     }
-
     nav[role="tablist"] span.hidden.sm\:inline {
-        display: none !important; 
+        display: none !important;
+    }
+
+    .lightbox-wrapper {
+        @apply flex flex-col items-center justify-center bg-black/85;
+        padding: 0 0.5rem;
+    }
+
+    .lightbox-image {
+        @apply w-[92%] max-h-[80vh] rounded-xl shadow-2xl;
+    }
+
+    .lightbox-close {
+        @apply text-3xl top-4 right-4;
+        padding: 0.25rem 0.45rem;
+    }
+
+    .lightbox-button {
+        display: none !important;
+    }
+}
+
+@media (min-width: 641px) {
+    .lightbox-button {
+        display: flex !important;
     }
 }
 
