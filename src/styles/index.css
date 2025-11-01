@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  font-family: 'Inter', 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif;
+}
+
 :root {
     --accent: #ff4da6;
 }
@@ -127,3 +131,44 @@ html {
 }
 
 .lightbox-close:hover { color: var(--accent); }
+
+@media (max-width: 640px) {
+    nav[role="tablist"] {
+        gap: 0.2rem !important; 
+        justify-content: center;
+    }
+
+    nav[role="tablist"] button {
+        padding: 0.35rem 0.45rem !important;
+        font-size: 1rem !important;
+    }
+
+    nav[role="tablist"] span.text-lg {
+        display: inline-block !important;
+        font-size: 1.1rem !important;
+        line-height: 1;
+    }
+
+    nav[role="tablist"] span.hidden.sm\:inline {
+        display: none !important;
+    }
+}
+
+@media (min-width: 641px) {
+    nav[role="tablist"] {
+        gap: 0.5rem;
+    }
+
+    nav[role="tablist"] button {
+        font-size: 1rem;
+        padding: 0.5rem 1rem;
+    }
+
+    nav[role="tablist"] span.text-lg {
+        font-size: 1.2rem;
+    }
+
+    nav[role="tablist"] span.hidden.sm\:inline {
+        display: inline !important;
+    }
+}
