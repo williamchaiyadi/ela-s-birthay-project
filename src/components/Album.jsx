@@ -1,4 +1,4 @@
-import React, { useState, useRef } from "react";
+import React, { useState, useRef, useEffect } from "react";
 import ReactDOM from "react-dom";
 
 const images = Array.from({ length: 120 }).map((_, i) => `/album/${i + 1}.webp`);
@@ -26,6 +26,7 @@ export default function Album() {
     function prev() {
         setIndex((prev) => (prev - 1 + images.length) % images.length);
     }
+
     function next() {
         setIndex((prev) => (prev + 1) % images.length);
     }
@@ -45,6 +46,19 @@ export default function Album() {
         else prev(); 
         }
     }
+
+    useEffect(() => {
+        if (!lightboxOpen) return;
+
+        function handleKey(e) {
+        if (e.key === "ArrowRight") next();
+        else if (e.key === "ArrowLeft") prev();
+        else if (e.key === "Escape") close();
+        }
+
+        window.addEventListener("keydown", handleKey);
+        return () => window.removeEventListener("keydown", handleKey);
+    }, [lightboxOpen, index]);
 
     const lightbox = (
         <div
@@ -71,10 +85,19 @@ export default function Album() {
             }`}
         />
 
-        <button className="lightbox-button lightbox-prev hidden md:block" onClick={prev}>
+        <button
+            className="lightbox-button lightbox-prev hidden md:flex"
+            onClick={prev}
+            aria-label="Previous image"
+        >
             ←
         </button>
-        <button className="lightbox-button lightbox-next hidden md:block" onClick={next}>
+
+        <button
+            className="lightbox-button lightbox-next hidden md:flex"
+            onClick={next}
+            aria-label="Next image"
+        >
             →
         </button>
         </div>
