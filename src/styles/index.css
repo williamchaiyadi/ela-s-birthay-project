@@ -94,28 +94,6 @@ html {
     scroll-behavior: smooth;
 }
 
-.lightbox-wrapper {
-    @apply fixed inset-0 z-[9999] flex items-center justify-center bg-black/80 backdrop-blur-sm;
-}
-
-.lightbox-image {
-    @apply max-w-[95%] max-h-[95%] rounded-2xl shadow-2xl object-contain transition-transform duration-500 ease-in-out;
-    animation: zoom-in 0.35s ease forwards;
-}
-
-@keyframes zoom-in {
-    from { transform: scale(0.8); opacity: 0; }
-    to { transform: scale(1); opacity: 1; }
-}
-
-@keyframes zoom-out {
-    from { transform: scale(1); opacity: 1; }
-    to { transform: scale(0.85); opacity: 0; }
-}
-
-.lightbox-exit {
-    animation: zoom-out 0.3s ease forwards;
-}
 
 .lightbox-button {
     @apply absolute text-white text-4xl font-bold cursor-pointer transition-transform duration-300 select-none;
@@ -167,11 +145,11 @@ html {
     }
 
     nav[role="tablist"] span.hidden.sm\:inline {
-        display: none !important;
+        display: none !important; 
     }
 }
 
-@media (min-width: 360px) {
+@media (min-width: 641px) {
     nav[role="tablist"] {
         gap: 0.5rem;
     }
@@ -186,7 +164,7 @@ html {
     }
 
     nav[role="tablist"] span.hidden.sm\:inline {
-        display: inline !important;
+        display: inline !important; 
     }
 
     .lightbox-button {
