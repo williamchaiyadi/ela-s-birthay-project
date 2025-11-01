@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import ReactDOM from "react-dom";
 
 const images = Array.from({ length: 120 }).map(
     (_, i) => `/album/${i + 1}.webp`
@@ -12,13 +13,13 @@ export default function Album() {
     function open(i) {
         setIndex(i);
         setLightboxOpen(true);
-        document.body.classList.add("lightbox-active"); 
+        document.body.classList.add("lightbox-active");
         setTimeout(() => setZoom(true), 50);
     }
 
     function close() {
         setZoom(false);
-        document.body.classList.remove("lightbox-active"); 
+        document.body.classList.remove("lightbox-active");
         setTimeout(() => setLightboxOpen(false), 300);
     }
 
@@ -29,6 +30,38 @@ export default function Album() {
     function next() {
         setIndex((index + 1) % images.length);
     }
+
+    const lightbox = (
+        <div
+            className={`lightbox-wrapper ${
+                zoom ? "opacity-100" : "opacity-0"
+            } transition-opacity duration-300`}
+        >
+            <button
+                className="lightbox-close"
+                onClick={close}
+                aria-label="Close lightbox"
+            >
+            &times;
+            </button>
+
+            <button className="lightbox-button lightbox-prev" onClick={prev}>
+                ←
+            </button>
+
+            <img
+                src={images[index]}
+                alt={`Zoom ${index + 1}`}
+                className={`lightbox-image ${
+                    zoom ? "scale-100 opacity-100" : "scale-90 opacity-0"
+                }`}
+            />
+
+            <button className="lightbox-button lightbox-next" onClick={next}>
+                →
+            </button>
+        </div>
+    );
 
     return (
         <div className="album-container p-4 animate-fade-in">
@@ -45,43 +78,8 @@ export default function Album() {
                 ))}
             </div>
 
-            {lightboxOpen && (
-                <div
-                    className={`fixed inset-0 z-[9999] flex items-center justify-center bg-black/90 backdrop-blur-md transition-opacity duration-300 ${
-                        zoom ? "opacity-100" : "opacity-0"
-                    }`}
-                    style={{ overscrollBehavior: "none" }}
-                >
-                    <button
-                        className="absolute top-6 right-8 text-white text-4xl font-bold hover:scale-110 transition-transform"
-                        onClick={close}
-                    >
-                        &times;
-                    </button>
-
-                    <button
-                        className="absolute left-6 text-white text-3xl hover:scale-125 transition-transform"
-                        onClick={prev}
-                    >
-                        ⬅
-                    </button>
-
-                    <img
-                        src={images[index]}
-                        alt={`Zoom ${index + 1}`}
-                        className={`max-w-full max-h-full rounded-lg shadow-2xl transition-transform duration-500 ease-in-out object-contain ${
-                            zoom ? "scale-100 opacity-100" : "scale-90 opacity-0"
-                        }`}
-                    />
-
-                    <button
-                        className="absolute right-6 text-white text-3xl hover:scale-125 transition-transform"
-                        onClick={next}
-                    >
-                        ➡
-                    </button>
-                </div>
-            )}
+            {lightboxOpen &&
+                ReactDOM.createPortal(lightbox, document.body)}
         </div>
     );
 }

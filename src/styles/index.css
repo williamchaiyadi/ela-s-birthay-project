@@ -95,17 +95,26 @@ html {
 }
 
 .lightbox-wrapper {
-    @apply fixed inset-0 z-50 flex items-center justify-center;
+    @apply fixed inset-0 z-[9999] flex items-center justify-center bg-black/80 backdrop-blur-sm;
 }
 
 .lightbox-image {
-    @apply max-w-[90%] max-h-[85%] rounded-2xl shadow-2xl object-contain transition-transform duration-500 ease-in-out;
+    @apply max-w-[95%] max-h-[95%] rounded-2xl shadow-2xl object-contain transition-transform duration-500 ease-in-out;
     animation: zoom-in 0.35s ease forwards;
 }
 
 @keyframes zoom-in {
-    from { transform: scale(0.85); opacity: 0; }
+    from { transform: scale(0.8); opacity: 0; }
     to { transform: scale(1); opacity: 1; }
+}
+
+@keyframes zoom-out {
+    from { transform: scale(1); opacity: 1; }
+    to { transform: scale(0.85); opacity: 0; }
+}
+
+.lightbox-exit {
+    animation: zoom-out 0.3s ease forwards;
 }
 
 .lightbox-button {
@@ -125,12 +134,20 @@ html {
 }
 
 .lightbox-close {
-    @apply top-6 right-10;
-    color: white;
-    transition: color 0.3s;
+    @apply absolute top-6 right-8 z-[10000] text-white text-4xl font-bold cursor-pointer transition-transform duration-300 select-none;
+    border-radius: 9999px;
+    padding: 0.2rem 0.6rem;
+    line-height: 1;
 }
 
-.lightbox-close:hover { color: var(--accent); }
+.lightbox-close:hover {
+    transform: scale(1.2);
+    color: var(--accent);
+}
+
+.lightbox-close:hover { 
+    color: var(--accent); 
+}
 
 @media (max-width: 640px) {
     nav[role="tablist"] {
